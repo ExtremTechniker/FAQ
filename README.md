@@ -28,10 +28,10 @@ Ich arbeite die meiste Zeit mit **IntelliJ IDEA** (Java/Scala) oder mit **Websto
 Das Schema basiert auf Eclipse Darcula und du kannst es von meinem Server runterladen: TODO
 
 ## Wie hast du coden gelernt?
-Ich hab mit 12 Jahren angefangen zu coden, damals **Visual Basic.NET 2005**. Während der Schulzeit ist dann noch **Webentwicklung** dazu gekommen, und kurz vor dem Studium **Java**. Richtig programmieren gelernt habe ich aber erst während des Studiums. **Scala** gelernt habe ich erst 2015.
+Ich hab mit 12 Jahren angefangen zu coden, damals **Visual Basic.NET 2005**. Während der Schulzeit ist dann noch **Webentwicklung** dazu gekommen, und kurz vor dem Studium **Java**. Richtig programmieren gelernt habe ich aber erst während des Studiums. **Scala** habe ich 2015 kennengelernt.
 
 ## Was macht man im Informatik-Studium?
-TODO
+Das ist abhängig davon, wo und welches Teilgebiet der Informatik man studiert. Ich studiere (allgemeine) Informatik in Karlsruhe, und hier ist der Studiengang super vielseitig. Von der Programmierung an sich und verwandten Themen wie Algorithmen oder Softwaretechnik, über Vorlesungen zu Vernetzung (aka. Internet), Sicherheit und theoretischer Informatik, Computergrafik, Robotik, Rechnerstruktur, .... Dazu kommen ergänzende, optionale Vorlesungen zu BWL, Recht, OR usw. Und ja, Mathe ist grade im Bachelor extrem wichtig. Wir hatten sogar teilweise Vorlesungen zusammen mit Mathematik-Studenten. Schafft man aber. Glaube ich...
 
 ## Wie arbeitest du dich in neue Projekte ein?
 TODO
