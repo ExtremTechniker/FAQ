@@ -24,6 +24,9 @@ TODO
 ### Wie hast du coden gelernt?
 TODO
 
+### Was macht man im Informatik-Studium?
+TODO
+
 ### Wie arbeitest du dich in neue Projekte ein?
 TODO
 
