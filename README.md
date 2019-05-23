@@ -34,7 +34,7 @@ Ich hab mit 12 Jahren angefangen zu coden, damals **Visual Basic.NET 2005**. Wä
 Das ist abhängig davon, wo und welches Teilgebiet der Informatik man studiert. Ich studiere (allgemeine) Informatik in Karlsruhe, und hier ist der Studiengang **super vielseitig**. Von der Programmierung an sich und verwandten Themen wie Algorithmen oder Softwaretechnik, über Vorlesungen zu Vernetzung (aka. Internet), Sicherheit und theoretischer Informatik, Computergrafik, Robotik, Rechnerstruktur, .... Dazu kommen ergänzende, optionale Vorlesungen zu BWL, Recht, OR, Elektrotechnik usw. Und ja, Mathe ist grade im Bachelor extrem wichtig. Wir hatten sogar teilweise Vorlesungen zusammen mit Mathematik-Studenten. Schafft man aber. Glaube ich...
 
 ## Wie arbeitest du dich in neue Projekte ein?
-**Googeln!** Meistens gibt es verwandte Ansätze, Beispiel-Code, öffenltiche Dokumentationen oder Stackoverflow-Diskussionen. Dann selbst rum probieren und einen Durchschuss (also ein Minimalbeispiel von Anfang bis Ende) coden. Erst danach beginnt die richtige Entwicklung. Ich habe hierzu auch ein Video gemacht: https://youtu.be/pqfk362AY7o
+**Googeln!** Meistens gibt es verwandte Ansätze, Beispiel-Code, öffentliche Dokumentationen oder Stackoverflow-Diskussionen. Dann selbst rumprobieren und einen Durchschuss (also ein Minimalbeispiel von Anfang bis Ende) coden. Erst danach beginnt die richtige Entwicklung. Ich habe hierzu auch ein Video gemacht: https://youtu.be/pqfk362AY7o
 
 ## Warum Scala?
 Scala ist eine unglaublich **skalierbare und modifizierbare Sprache**. Der Syntax kann quasi nach belieben erweitert werden, was es ermöglich, sehr aussagekräftigen und kurzen Code zu schreiben. Viele lieben Scala dafür. Andere hassen Scala genau deswegen.
