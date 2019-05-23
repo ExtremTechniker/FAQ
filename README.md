@@ -1,4 +1,4 @@
-In diesem FAQ gibt es alle Infos zu meinen Coding-Streams!
+In diesem FAQ gibt es alle Infos zu meinen Coding-Streams auf http://skate702.tv!
 
 # Coding-Streams
 In Coding-Streams **programmiere ich live** Tools, die mich in meinem Workflow unterstützen. Live-Coding ist richtig cool, man lernt zusammen neue Sprachen und Konzepte. Coding-Streams sind geplant für **Dienstag Abends ab ca. 19 Uhr**, das kann sich jedoch öfters auch mal ändern.
