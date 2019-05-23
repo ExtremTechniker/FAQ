@@ -41,7 +41,7 @@ Scala ist eine unglaublich **skalierbare und modifizierbare Sprache**. Der Synta
 
 Ich mag Scala wegen der Erweiterbarkeit, dem Aufräumen mit geschichtlich bedinkten Inkonsistenzen von Java (wie z.B. `static`) und des **Multi-Paradigmen-Ansatzes**, der Objektorientierung und funktionale Programmierung verbindet. Wenn du einmal mit Lambdas in Scala gearbeitet hast, kommst du dir in anderen Sprachen wie Java vor, als würde dir ein Bein fehlen.
 
-## Was ist Chat Overflow und Code Overflow?
+## Was ist Chat Overflow / Code Overflow?
 **Chat Overflow** ein **Framework für Livestreamer**, das Tools wie Chatbots, Subs & Spendenseiten wie Tipeeestream oder Loots kombiniert. Es ist von Grundauf für Erweiterbarkeit ausgelegt und arbeitet grundsätzlich event-gesteuert. Wer hier jetzt an IFTTT denkt, liegt nicht falsch. Es ist quasi ein hackbares IFTTT für Streamer.
 
 **Code Overflow** ist die Gruppe dahinter. Angefangen hat es mit Live-Coding-Events und Chat Overflow sollte nur das erste Projekt sein. Wurde dann aber doch irgendwie größer als geplant. Deswegen nutze ich beide Namen oft auch als Synonym.
