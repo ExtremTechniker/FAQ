@@ -16,7 +16,7 @@ Kommt drauf an was du gerade siehst, ich arbeite meist parallel an mehreren Tool
 - Alles andere: https://github.com/sebinside
 
 ## Welche Sprache ist das?
-Kommt auf das Projekt an. In **Code Overflow** sind die vorherschenden Sprachen *Scala, Java* und *Typescript*. In Premiere *Javascript* und *Typescript*. Frameworks/Umgebungen sind *SBT, NodeJS* und *Angular*.
+Kommt auf das Projekt an. In **Code Overflow** sind die vorherrschenden Sprachen *Scala, Java* und *Typescript*. In Premiere *Javascript* und *Typescript*. Frameworks/Umgebungen sind *SBT, NodeJS* und *Angular*.
 
 ## Welche Sprachen kannst du?
 Sprachen wirklich können ist so eine Sache. Hier ist eine (definitiv **nicht** vollständige) Liste an Sprachen, mit denen ich schon zu tun hatte, geordnet danach, wie gut ich glaube, die Sprache zu können: Scala, Java, C#, C++, Javascript, Typescript, Visual Basic, Python, C, Haskell, LUA, Extend, PHP, R, Prolog, ...
@@ -39,7 +39,7 @@ Das ist abhängig davon, wo und welches Teilgebiet der Informatik man studiert. 
 ## Warum Scala?
 Scala ist eine unglaublich **skalierbare und modifizierbare Sprache**. Der Syntax kann quasi nach belieben erweitert werden, was es ermöglich, sehr aussagekräftigen und kurzen Code zu schreiben. Viele lieben Scala dafür. Andere hassen Scala genau deswegen.
 
-Ich mag Scala wegen der Erweiterbarkeit, dem Aufräumen mit geschichtlich bedinkten Inkonsistenzen von Java (wie z.B. `static`) und des **Multi-Paradigmen-Ansatzes**, der Objektorientierung und funktionale Programmierung verbindet. Wenn du einmal mit Lambdas in Scala gearbeitet hast, kommst du dir in anderen Sprachen wie Java vor, als würde dir ein Bein fehlen.
+Ich mag Scala wegen der Erweiterbarkeit, dem Aufräumen mit geschichtlich bedingten Inkonsistenzen von Java (wie z.B. `static`) und des **Multi-Paradigmen-Ansatzes**, der Objektorientierung und funktionale Programmierung verbindet. Wenn du einmal mit Lambdas in Scala gearbeitet hast, kommst du dir in anderen Sprachen wie Java vor, als würde dir ein Bein fehlen.
 
 ## Was ist Chat Overflow / Code Overflow?
 **Chat Overflow** ein **Framework für Livestreamer**, das Tools wie Chatbots, Subs & Spendenseiten wie Tipeeestream oder Loots kombiniert. Es ist von Grundauf für Erweiterbarkeit ausgelegt und arbeitet grundsätzlich event-gesteuert. Wer hier jetzt an IFTTT denkt, liegt nicht falsch. Es ist quasi ein hackbares IFTTT für Streamer.
