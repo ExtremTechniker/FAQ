@@ -25,7 +25,7 @@ Sprachen wirklich können ist so eine Sache. Hier ist eine (definitiv **nicht** 
 Ich arbeite die meiste Zeit mit **IntelliJ IDEA** (Java/Scala) oder mit **Webstorm** (JS, TS, ...). Manchmal auch mit **Visual Studio Code**.
 
 ## Wo gibt es das Farb-Theme?
-Das Schema basiert auf Eclipse Darcula und du kannst es von meinem Server runterladen: https://skate702.de/extra/rainbow.jar 
+Das Schema basiert auf Eclipse Dracula und du kannst es von meinem Server runterladen: https://skate702.de/extra/rainbow.jar 
 
 ## Wie hast du coden gelernt?
 Ich hab mit 12 Jahren angefangen zu coden, damals **Visual Basic.NET 2005**. Während der Schulzeit ist dann noch **Webentwicklung** dazu gekommen, und kurz vor dem Studium **Java**. Richtig programmieren gelernt habe ich aber erst während des Studiums. **Scala** habe ich 2015 kennengelernt.
